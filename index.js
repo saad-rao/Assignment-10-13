@@ -71,7 +71,7 @@
 // clock format like: 1900 = 7pm. Implement the following case 
 // using if, else & else if statements
 
-
+    
 
 
 var input = parseInt(prompt("Enter time in 24-hour format (e.g., 1900 for 7:00 PM):"));
